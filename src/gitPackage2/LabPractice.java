@@ -5,6 +5,7 @@ public class LabPractice {
 	public static void main(String[] args) {
 		
 		// this is lab practice session
+		System.out.println("Hellow World");
 
 	}
 
